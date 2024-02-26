@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\Lachlan Reynolds\Desktop\CPSC 259\Labs\Lab3\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\main.c(58,18): warning C4013: 'Weave' undefined; assuming extern returning int
-C:\Users\Lachlan Reynolds\Desktop\CPSC 259\Labs\Lab3\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\main.c(58,32): warning C4047: '=': 'node *' differs in levels of indirection from 'int'
-C:\Users\Lachlan Reynolds\Desktop\CPSC 259\Labs\Lab3\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\main.c(88,14): error C2040: 'Weave': 'node *(node *,node **)' differs in levels of indirection from 'int ()'
